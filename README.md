@@ -57,6 +57,16 @@ This project combines:
 - `config/` — Firebase configuration
 - `assets/` — images and app assets
 
+## Screenshots
+
+Add a screenshot of the app here to make the repository more visually appealing.
+
+Example:
+
+```md
+![Raven EV App](docs/screenshot.png)
+```
+
 ## Notes
 
 Make sure your Firebase configuration is set correctly in the project before running the app.
